@@ -1,5 +1,5 @@
 # Random Password Generator
-For this project, I developed a web application which functions as a random password generator. Upon clicking the "Generate Password" button located beneath the text box, the user is met which a variety of questions which affect the characters used in their randomized password. 
+For this project, I developed a web application which functions as a random password generator. Upon clicking the "Generate Password" button located beneath the text box, the user is met which a variety of questions which affect the type of characters used in their randomized password. 
 
 
 Among the prompted questions include, "How many characters would you like your password to be?", "Do you want to use uppercase letters in your password?", "Do you want to use lowercase letters in your password?", "Do you want to use special characters in your password?", and "Do you want to use numbers in your password?". 
