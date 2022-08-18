@@ -11,6 +11,6 @@ Attached below is a screenshot of the applications home screen. This is what gre
 
 Click the link below to find the deployed application: 
 
-...
+https://briggoh.github.io/Random-Password-Generator/
 
 Thank you for taking the time to review this document and my application, it is greatly appreciated!
