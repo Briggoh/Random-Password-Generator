@@ -5,7 +5,7 @@ For this project, I developed a web application which functions as a random pass
 Among the prompted questions include, "How many characters would you like your password to be?", "Do you want to use uppercase letters in your password?", "Do you want to use lowercase letters in your password?", "Do you want to use special characters in your password?", and "Do you want to use numbers in your password?". 
 
 
-Attached below is a screenshot of the applications home screen. This is what greets you as you enter the page!
+Attached below is a screenshot of the application's home screen. This is what greets you as you enter the page!
 
 ![Screen Shot 2022-08-18 at 3 14 59 PM](https://user-images.githubusercontent.com/109489824/185504550-2c94228f-416f-4597-a8b9-b9acb67192c7.png)
 
